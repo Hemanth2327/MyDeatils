@@ -8,6 +8,10 @@ public class javaProject {
 		System.out.println("hey guys");
 		
 		System.out.println("see you around");
+		
+		double dd=23.27;
+		
+		System.out.println(dd);
 	}
 
 }
